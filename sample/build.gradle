@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
 
-    namespace 'com.github.ybq.android.spinkit'
+    namespace 'com.github.ybq.android.loading'
     compileSdkVersion 34
 
     defaultConfig {
