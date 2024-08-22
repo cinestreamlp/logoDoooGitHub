@@ -1,14 +1,15 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.novoda.bintray-release'
+apply plugin: 'maven-publish'
 
 android {
 
-    compileSdkVersion 28
-    buildToolsVersion '28.0.3'
+    namespace 'com.github.ybq.android.spinkit'
+
+    compileSdkVersion 34
 
     defaultConfig {
-        minSdkVersion 14
-        targetSdkVersion 28
+        minSdkVersion 23
+        targetSdkVersion 34
     }
 
     lintOptions {
@@ -16,13 +17,12 @@ android {
     }
 }
 
-
-publish {
-    userOrg = 'ybq'
-    groupId = 'com.github.ybq'
-    artifactId = 'Android-SpinKit'
-    publishVersion = '1.4.0'
-    desc = 'Android loading animations'
-    website = 'https://github.com/ybq/Android-SpinKit'
-    licences = ['MIT']
+publishing {
+    publications {
+        release(MavenPublication) {
+            groupId = 'com.github.ybq.android.spinkit'
+            artifactId = 'library'
+            version = '1.0'
+        }
+    }
 }
